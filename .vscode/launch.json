@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SimpleClaculator",
+            "request": "launch",
+            "mainClass": "SimpleClaculator",
+            "projectName": "SimpleCalculator_a0d98f70"
+        },
+        {
+            "name": "Launch Edge",
+            "request": "launch",
+            "type": "msedge",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
